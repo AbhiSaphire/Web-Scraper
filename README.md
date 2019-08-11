@@ -6,7 +6,7 @@ Here this crawler collects all the product headings and respective links of the 
 
 ## How to run
 <li>install pip3</li> 
-`sudo apt install python3-pip`
+` sudo apt install python3-pip `
 <li>install bs4 module</li> `pip3 install bs4`
 <li>compile and run</li> `python3 scraper.py`
 
