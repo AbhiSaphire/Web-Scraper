@@ -3,7 +3,7 @@
 This is a repository different types of web scrapers / web crawlers.
 You can find seperate README.md files for each projects in this repo.
 
-##What is Web Scraping ?
+## What is Web Scraping ?
 
 <b>Web Scraping</b> (also termed <b>Screen Scraping, Web Data Extraction, Web Harvesting</b> etc.) is a technique employed to extract large amounts of data from websites whereby the data is extracted and saved to a local file in your computer or to a database in table (spreadsheet) format.
 
