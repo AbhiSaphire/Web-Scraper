@@ -1,6 +1,6 @@
 # Web-Scrapers
 
-This is a repository different types of web scrapers / web crawlers.
+This is a repository having different types of web scraping / web crawling projects.
 You can find seperate README.md files for each projects in this repo.
 
 ## What is Web Scraping ?
